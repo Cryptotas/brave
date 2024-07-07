@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your knowledge of Ethereum with this quiz.",
+  "questions": [
+    {
+      "question": "Who founded Ethereum?",
+      "answers": ["Buterin", "Nakamoto", "Wright"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "When was Ethereum launched?",
+      "answers": ["2015", "2010", "2017"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is ETH?",
+      "answers": ["Token", "Stock", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Solidity?",
+      "answers": ["Lang", "Wallet", "Miner"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Geth?",
+      "answers": ["Client", "Wallet", "Miner"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a DApp?",
+      "answers": ["App", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Gas?",
+      "answers": ["Fee", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is EVM?",
+      "answers": ["Machine", "Wallet", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Sharding?",
+      "answers": ["Scaling", "Mining", "Staking"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a Fork?",
+      "answers": ["Split", "Join", "Merge"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Metamask?",
+      "answers": ["Wallet", "Miner", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is PoW?",
+      "answers": ["Proof", "Power", "Pool"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is PoS?",
+      "answers": ["Proof", "Power", "Pool"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is DeFi?",
+      "answers": ["Finance", "Mining", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a Node?",
+      "answers": ["Device", "Token", "Wallet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an ICO?",
+      "answers": ["Offering", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is ERC-20?",
+      "answers": ["Standard", "Token", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Staking?",
+      "answers": ["Holding", "Mining", "Buying"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a Block?",
+      "answers": ["Data", "Token", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a Miner?",
+      "answers": ["Validator", "Holder", "Trader"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
